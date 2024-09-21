@@ -12,7 +12,7 @@ v
 e
 # General content
 (All the teammates are requested to enter your text strictly in line 15 only)
-
+workshop held by GLUG and Robotics club
 
 
 
